@@ -1,0 +1,37 @@
+body 
+{
+background-color:#2f4ccf;
+background-image: url("../imagens/yoga.jpg"); 
+background-size: cover;
+}
+
+h1 
+{
+color:rgba(221, 3, 3, 0.774);
+text-align: center;
+text-shadow: white 0.1em 0.1em 0.2em;
+}
+
+h2
+{
+color:white;
+text-align: center;
+text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+h3
+{
+color:white; 
+text-align: center; 
+text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#tituloform {font-weight: bold}
+
+.color1
+{
+height: 50px;
+width: 170px;
+background-color: snow;
+
+}
